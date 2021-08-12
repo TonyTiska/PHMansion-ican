@@ -46,14 +46,23 @@
     "uniqCompNum": 25,
     "versionPublish": "5.3.0",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: Mediapartners-Google\n\nAllow:\n\nUser-agent: *\n\nAllow: /search\n\nAllow: /\n\nSitemap: https://permatahijaumansion.info/feeds/posts/default?orderby=UPDATED",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://permatahijaumansion.info",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "mbrsiteDomain": "x1fz76s4xg",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Permata Hijau Mansion",
+        "meta_descr": "Townhouse Premium di Permata Hijau - Jakarta Selatan.\nCluster terbaru di area permata hijau Jakarta dengan lokasi yang sangat strategis dan dengan harga yang sangat terjangkau.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
