@@ -9,3 +9,4 @@ Allow: /search
 Allow: /
 
 Sitemap: https://permatahijaumansion.info/feeds/posts/default?orderby=UPDATED
+
